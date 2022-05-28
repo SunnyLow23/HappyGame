@@ -37,6 +37,8 @@ bởi quái vật.
      
 - Lưu ý: trường hợp không thể tiêu diệt hết quái vật, người chơi có thể nhấn phím "0" để kết thúc trò chơi và chọn "play again" ở menu kết thúc (nhân vật sẽ chết 
 khi nhấn phím "0", đây là chữa lỗi tạm thời, lỗi này sẽ được cập nhật ở phiên bản sau).
+
+- Link video giới thiệu: https://youtu.be/opamuOFZS6g
      
 **IV. Các kỹ thuật lập trình đã sử dụng**
 
