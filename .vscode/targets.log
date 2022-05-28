@@ -1,0 +1,376 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for Windows32
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Sat May 28 23:20:51 2022
+
+# Variables
+
+# environment
+SYSTEMDRIVE = C:
+# environment
+LC_ALL = C
+# environment
+WINDOWS_TRACING_FLAGS = 3
+# environment
+USERPROFILE = C:\Users\Administrator
+# environment
+LOCALAPPDATA = C:\Users\Administrator\AppData\Local
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-e218b070-653e-4c16-bc9e-f4de0acb11cb-sock
+# environment
+VSCODE_CWD = C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code
+# environment
+SYSTEMROOT = C:\Windows
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+# default
+MAKE_COMMAND := make.exe
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_15616_TQLWSZCCQZWKPZST
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\Administrator\AppData\Roaming\Code\CachedData\c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = C:\Users\ADMINI~1\AppData\Local\Temp
+# default
+.INCLUDE_DIRS = .
+# makefile
+MAKEFLAGS = pqrR
+# makefile
+CURDIR := c:/Users/Administrator/Desktop/Quang/cpp/SRCDIR
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+PROGRAMFILES = C:\Program Files
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 15616
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# automatic
+*F = $(notdir $*)
+# makefile (from 'Makefile', line 11)
+LIBRARY_PATHS = -Lsrc\lib
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# default
+MAKE_HOST := Windows32
+# makefile (from 'Makefile', line 2)
+OBJS = *.cpp
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := sh.exe
+# environment
+HOMEPATH = \Users\Administrator
+# default
+MAKECMDGOALS := all
+# environment
+COMSPEC = C:\Windows\system32\cmd.exe
+# environment
+WINDIR = C:\Windows
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\MinGW\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Dev-Cpp\MinGW64\bin;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\;C:\Users\Administrator\Desktop\Quang\software\SDL2-2.0.20\x86_64-w64-mingw32\bin;;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;
+# environment
+COMPUTERNAME = ADMIN
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+PROMPT = $P$G
+# environment
+LOGONSERVER = \\ADMIN
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = Administrator
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# makefile (from 'Makefile', line 22)
+OBJ_NAME = HappyGame
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = ADMIN
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# environment
+FP_NO_HOST_CHECK = NO
+# makefile
+.DEFAULT_GOAL := all
+# default
+MAKE_VERSION := 4.3
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+NUMBER_OF_PROCESSORS = 4
+# environment
+PUBLIC = C:\Users\Public
+# makefile (from 'Makefile', line 16)
+COMPILER_FLAGS = -w -Wl,-subsystem,windows
+# environment
+APPDATA = C:\Users\Administrator\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = C:\Users\ADMINI~1\AppData\Local\Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\9e7283c68e6159fd1e9872b65f264be5-1.67.2-main-sock
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+SESSIONNAME = Console
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
+# environment
+PROCESSOR_REVISION = 2505
+# environment
+WINDOWS_TRACING_LOGFILE = C:\BVTBin\Tests\installpackage\csilogfile.log
+# makefile (from 'Makefile', line 5)
+CC = g++
+# makefile (from 'Makefile', line 19)
+LINKER_FLAGS = -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer
+# makefile (from 'Makefile', line 8)
+INCLUDE_PATHS = -Isrc\include\SDL2
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 37 Stepping 5, GenuineIntel
+# variable set hash-table stats:
+# Load=98/1024=10%, Rehash=0, Collisions=9/136=7%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (key c:/Users/Administrator/Desktop/Quang/cpp/SRCDIR, mtime 1653754719): 64 files, no impossibilities.
+
+# 64 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+TextObject.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-25 22:19:22
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+BaseObject.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-26 21:59:47
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+MainObject.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-28 16:48:44
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-28 23:20:47
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+ImpTimer.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-25 22:23:18
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+Geometric.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-25 22:15:09
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all: BaseObject.cpp BulletObject.cpp CommonFunc.cpp ExplosionObject.cpp Geometric.cpp ImpTimer.cpp MainObject.cpp PlayerInfo.cpp TextObject.cpp ThreatsObject.cpp game_map.cpp main.cpp
+#  Command line target.
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: ''
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := all
+# automatic
+# * := 
+# automatic
+# < := BaseObject.cpp
+# automatic
+# + := BaseObject.cpp BulletObject.cpp CommonFunc.cpp ExplosionObject.cpp Geometric.cpp ImpTimer.cpp MainObject.cpp PlayerInfo.cpp TextObject.cpp ThreatsObject.cpp game_map.cpp main.cpp
+# automatic
+# % := 
+# automatic
+# ^ := BaseObject.cpp BulletObject.cpp CommonFunc.cpp ExplosionObject.cpp Geometric.cpp ImpTimer.cpp MainObject.cpp PlayerInfo.cpp TextObject.cpp ThreatsObject.cpp game_map.cpp main.cpp
+# automatic
+# ? := BaseObject.cpp BulletObject.cpp CommonFunc.cpp ExplosionObject.cpp Geometric.cpp ImpTimer.cpp MainObject.cpp PlayerInfo.cpp TextObject.cpp ThreatsObject.cpp game_map.cpp main.cpp
+# automatic
+# | := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=8/18=44%
+#  recipe to execute (from 'Makefile', line 26):
+	$(CC) $(OBJS) $(INCLUDE_PATHS) $(LIBRARY_PATHS) $(COMPILER_FLAGS) $(LINKER_FLAGS) -o $(OBJ_NAME)
+
+# Not a target:
+main.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-28 16:42:58
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+game_map.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-27 00:44:13
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+PlayerInfo.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-25 21:18:01
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+CommonFunc.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-28 16:43:34
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+BulletObject.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-27 23:48:56
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+ExplosionObject.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-25 22:05:27
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+ThreatsObject.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-28 15:55:53
+#  File has been updated.
+#  Successfully updated.
+
+# files hash-table stats:
+# Load=16/1024=2%, Rehash=0, Collisions=1/40=2%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 67 / storage = 909 B / avg = 13 B
+# current buf: size = 8162 B / used = 909 B / count = 67 / avg = 13 B
+
+# strcache performance: lookups = 86 / hit rate = 22%
+# hash-table stats:
+# Load=67/8192=1%, Rehash=0, Collisions=2/86=2%
+# Finished Make data base on Sat May 28 23:20:51 2022
+
+ 

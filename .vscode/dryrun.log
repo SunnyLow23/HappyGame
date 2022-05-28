@@ -1,0 +1,5 @@
+make.exe --dry-run --keep-going --print-directory
+make: Entering directory 'c:/Users/Administrator/Desktop/Quang/cpp/SRCDIR'
+g++ *.cpp -Isrc\include\SDL2 -Lsrc\lib -w -Wl,-subsystem,windows -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer -o HappyGame
+make: Leaving directory 'c:/Users/Administrator/Desktop/Quang/cpp/SRCDIR'
+ 
