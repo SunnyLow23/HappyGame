@@ -62,10 +62,12 @@ mới, item hỗ trợ, nhiều loại quái hơn, boss hoặc các miniboss và
 - Kết luận và các điều tâm đắc: HappyGame là thành quả sau một quá trình học hỏi, tìm hiểu và hỗ trợ. Có thể coi đây là sản phẩm đầu tiên em làm ra, mặc dù còn nhiều thiếu sót, cũng như gặp nhiều hạn chế về kiến thức, nhưng HappyGame bao hàm hầu hết vốn hiểu biết của bản thân về lập trình mà em tích lũy được. Trong quá trình xây dựng HappyGame em cũng học hỏi được rất nhiều điều, rèn luyện và trau dồi các kỹ năng cơ bản của lập trình viên một cách tốt hơn, đặc biệt em học thêm được kỹ năng phân tích và giải quyết vấn đề một cách logic, biết cách sắp xếp xây dựng một game cơ bản. Em sẽ tiếp tục phát triển và hoàn thiện HappyGame, và chắc chắn đây là sản phẩm đầu tiên ra mắt cộng đồng của bản thân em.
 
 
+
+
 *Tài liệu tham khảo:
 
 - Nguồn hình ảnh: https://itch.io/
 
 - Nguồn âm thanh: https://mixkit.co/
 
-- Tài liệu SDL: 
+- Tài liệu SDL: https://wiki.libsdl.org/ , https://lazyfoo.net/SDL_tutorials/
